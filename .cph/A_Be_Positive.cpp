@@ -28,3 +28,4 @@ while(t--){
     chk(nums);
     }
 }
+
